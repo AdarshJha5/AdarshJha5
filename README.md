@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Adarsh Jha
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on Data Analysis Related Projects
-- 📫 How to reach me - adarshjha5899@gmai.com
+- Experienced data analyst with a background in BFSI sector, Healthcare Sector and Media and Entertainment Tech, skilled in mathematical, statistical, and analytical concepts, with expertise in data collection, analysis, and modeling. Proficient in Python, SQL, and Tableau. Passionate about data drriven analysis and insights, dedicated to continuous learning, and committed to utilizing skills to drive business and optimize success.
 
 <!---
 AdarshJha5/AdarshJha5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
